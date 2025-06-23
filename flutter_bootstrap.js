@@ -39,6 +39,10 @@ _flutter.buildConfig = {"engineRevision":"18818009497c581ede5d8a3b8b833b81d00ceb
 
 _flutter.loader.load({
   serviceWorkerSettings: {
+<<<<<<< HEAD
     serviceWorkerVersion: "1636527768"
+=======
+    serviceWorkerVersion: "959906480"
+>>>>>>> 4cf27fd61dbe21f76f46f306aec7d7ebd7f26542
   }
 });
